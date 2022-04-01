@@ -7,3 +7,6 @@ How to contribute to docker community
 and core os
 
 https://fedoramagazine.org/fedora-coreos-test-day/
+
+
+https://www.youtube.com/watch?v=5ixJCM6pAcg&ab_channel=44BITS
