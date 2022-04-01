@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=5ixJCM6pAcg&ab_channel=44BITS
 https://subicura.com/about/
 
 subicura님
+
+
+https://www.sauru.so/blog/say-hello-to-cockroachdb/
+
+cockroach공부
