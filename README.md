@@ -20,3 +20,8 @@ subicura님
 https://www.sauru.so/blog/say-hello-to-cockroachdb/
 
 cockroach공부
+
+
+
+https://learn.hashicorp.com/tutorials/terraform/blue-green-canary-tests-deployments?in=terraform/applications
+테라폼 미쳣네
