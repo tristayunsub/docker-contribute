@@ -25,3 +25,4 @@ cockroach공부
 
 https://learn.hashicorp.com/tutorials/terraform/blue-green-canary-tests-deployments?in=terraform/applications
 테라폼 미쳣네
+Blue-Green 및 Canary 배포에 Application Load Balancer 사용
