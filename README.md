@@ -1,5 +1,9 @@
 # docker-contribute
 
+
+https://www.jerrychang.ca/writing/aws-ecs-technical-series-ecs-infrastructure
+aws study
+
 https://forums.docker.com/c/open-source-projects/22
 
 How to contribute to docker community
